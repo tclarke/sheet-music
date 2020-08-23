@@ -1,5 +1,5 @@
 \header {
-  title = "Goodnight My Sweet Baby"
+  title = "Go to Sleep My Sweet Baby"
   composer = "Trevor R.H. Clarke"
 }
 
